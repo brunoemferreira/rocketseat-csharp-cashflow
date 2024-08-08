@@ -8,7 +8,7 @@
 
 ## Arquitetura do Projeto
 
-* API Project ->
+* API Project -->
 * Communication Project ->
 * Application Project ->
 * Domain Project ->
