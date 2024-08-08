@@ -8,15 +8,14 @@
 
 ## Arquitetura do Projeto
 
-* _API Project_ :
-* _Communication Project_ :
-* _Application Project_ :
-* _Domain Project_ :
-* _Infrastructure Project_ :
-* _Exception Project_ :
+* 🟢 _API Project_ :
+* 🔵 _Communication Project_ :
+* 🟣 _Application Project_ :
+* 🟡 _Domain Project_ :
+* 🟤 _Infrastructure Project_ :
+* 🔴 _Exception Project_ :
 
-![image](https://github.com/user-attachments/assets/a59ec1d5-45b3-4368-8856-67727e33c1d5)
-
+![opera_8G2nBRLx58](https://github.com/user-attachments/assets/bebf7f7b-88d0-466f-bf16-9fc2fa471cd5)
 
 ## Project Dependency Visibility
 Aqui conseguimos enxergar a visibilidade entre os projetos.
