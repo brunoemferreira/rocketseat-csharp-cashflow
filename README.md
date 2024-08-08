@@ -19,11 +19,12 @@
 
 
 ## Project Dependency Visibility
+Aqui conseguimos enxergar a visibilidade entre os projetos.
 
 | _Project_              | _Visibility 1_  | _Visibility 2_ | _Visibility 3_ | _Visibility 4_ | _Visibility 5_ |
 |------------------------|-----------------|----------------|----------------|----------------|----------------|
-| **API**                | Application     | Communication | Exception    | Infrastructure |              |
-| **Application**        | Communication   | Domain        | Exception    |                |              |
+| **API**                | Application     | Communication  | Exception      | Infrastructure |                |
+| **Application**        | Communication   | Domain         | Exception      |                |                |
 | **Communication**      |                 |  |  |  |  |
 | **Domain**             |                 |  |  |  |  |
 | **Exception**          |                 |  |  |  |  |
