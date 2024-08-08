@@ -20,14 +20,14 @@
 
 ## Project Dependency Visibility
 
-| Project              | Visibility 1  | Visibility 2 | Visibility 3 | Visibility 4 | Visibility 5 |
-|----------------------|---------------|---------------|--------------|----------------|--------------|
-| API                  | Application   | Communication | Exception    | Infrastructure |              |
-| Application          | Communication | Domain        | Exception    |                |              |
-| Communication        |  |  |  |  |  |
-| Domain               |  |  |  |  |  |
-| Exception            |  |  |  |  |  |
-| Infrastructure       |  |  |  |  |  |
+| _Project_              | _Visibility 1_  | _Visibility 2_ | _Visibility 3_ | _Visibility 4_ | _Visibility 5_ |
+|------------------------|-----------------|----------------|----------------|----------------|----------------|
+| **API**                | Application     | Communication | Exception    | Infrastructure |              |
+| **Application**        | Communication   | Domain        | Exception    |                |              |
+| **Communication**      |                 |  |  |  |  |
+| **Domain**             |                 |  |  |  |  |
+| **Exception**          |                 |  |  |  |  |
+| **Infrastructure**     | Domain          |  |  |  |  |
 
 ## Estrutura do Projeto
 ```shell
