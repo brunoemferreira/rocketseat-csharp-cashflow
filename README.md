@@ -15,7 +15,7 @@
 * 🟤 _Infrastructure Project_ :
 * 🔴 _Exception Project_ :
 
-![opera_8G2nBRLx58](https://github.com/user-attachments/assets/bebf7f7b-88d0-466f-bf16-9fc2fa471cd5 =50x50) 
+![opera_8G2nBRLx58](https://github.com/user-attachments/assets/bebf7f7b-88d0-466f-bf16-9fc2fa471cd5) 
 
 ## 👀 Project Dependency Visibility
 Aqui conseguimos enxergar a visibilidade entre os projetos.
